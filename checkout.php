@@ -132,7 +132,7 @@ if(isset($_POST['order_btn'])){
          </div>
          <div class="inputBox">
             <span>adresse 02 :</span>
-            <input type="text" name="street" required placeholder="e.g. Avenue de l'indépendance">
+            <input type="text" name="street" placeholder="e.g. Avenue de l'indépendance">
          </div>
          <div class="inputBox">
             <span>ville :</span>
@@ -140,7 +140,7 @@ if(isset($_POST['order_btn'])){
          </div>
          <div class="inputBox">
             <span>pays :</span>
-            <input type="text" name="state" required placeholder="e.g. Analamanga">
+            <input type="text" name="state" required placeholder="e.g. Madagascar">
          </div>
          <div class="inputBox">
             <span>Etat :</span>
